@@ -2,14 +2,15 @@
 
 Descrição da atividade:
 
-Foram separadas e analisados os dados de energia de São Paulo, No período "data" à "data", incluindo um relatório técnico.
+Foram separadas e analisados os dados de energia de São Paulo, No período 01/08/2025 à 07/09/2025, incluindo um relatório técnico.
 
 ##Fontes:
 
-### Operador Nacional do Sistema.
+### Operador Nacional do Sistema Elétrico.
 
 - https://dados.ons.org.br/
 - https://dados.ons.br/dataset/carga-energia-verificada
+- Bibliotecas: Pandas, Seaborn, Matplotlib, Requests
 
 
 ## Integrantes:
